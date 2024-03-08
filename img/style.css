@@ -1,0 +1,20 @@
+.huh {
+    color:rgb(168, 159, 159)!important ;
+}
+.huh:hover{
+    color: white!important;
+    opacity: 100%;
+}
+.huah{
+    color: white;
+}
+.huah:hover{
+    color: white;
+}
+.cat:hover{
+    background-color: #242424 !important;
+    /* opacity: 50%; */
+}
+.cad{
+    background-color: transparent !important;
+}
